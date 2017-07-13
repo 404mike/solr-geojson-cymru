@@ -1,0 +1,3641 @@
+[
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000593",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000593"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000593",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1226.69"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1226.69"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1226.69"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Aberkenfig"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Abercynffig"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000594",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000594"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000594",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "469.36"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "469.36"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "469.36"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Bettws"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Betws"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000595",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000595"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000595",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1679.79"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1679.79"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1679.79"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Blackmill"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Melin Ifan Ddu"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000596",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000596"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000596",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "807.52"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "807.52"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "807.52"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Blaengarw"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Blaengarw"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000598",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000598"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000598",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "731.64"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "731.64"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "731.64"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Bryncethin"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Brynceithin"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000599",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000599"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000599",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "158.99"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "158.99"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "158.99"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Bryncoch"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Bryn-coch"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000601",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000601"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000601",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1456.49"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1456.49"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1456.49"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Caerau"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Caerau"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000602",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000602"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000602",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "747.21"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "747.21"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "747.21"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Cefn Cribwr"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Cefn Cribwr"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000603",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000603"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000603",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "73.52"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "73.52"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "73.52"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Cefn Glas"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Cefn Glas"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000604",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000604"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000604",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "553.67"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "553.67"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "553.67"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Coity"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Coety"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000605",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000605"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000605",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1818.74"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1660.26"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1660.26"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Cornelly"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Corneli"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000607",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000607"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000607",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "251.54"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "251.54"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "251.54"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Felindre"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Felindre"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000608",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000608"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000608",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "314.32"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "314.32"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "314.32"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Hendre"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Hendre"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000609",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000609"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000609",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "121.11"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "121.11"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "121.11"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Litchard"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Litchard"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000610",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000610"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000610",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1181.41"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1181.41"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1181.41"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Llangeinor"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Llangeinwyr"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000611",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000611"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000611",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "81.12"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "81.12"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "81.12"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Llangewydd and Brynhyfryd"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Llangewydd a Brynhyfryd"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000612",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000612"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000612",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1351.19"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1351.19"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1351.19"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Llangynwyd"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Llangynwyd"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000613",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000613"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000613",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "553.77"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "553.77"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "553.77"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Maesteg East"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Maesteg - Dwyrain"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000614",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000614"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000614",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "710.91"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "710.91"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "710.91"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Maesteg West"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Maesteg - Gorllewin"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000615",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000615"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000615",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "116.38"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "116.38"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "116.38"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Morfa"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Morfa"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000616",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000616"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000616",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1019.32"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1019.32"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1019.32"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Nant-y-moel"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Nant-y-moel"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000617",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000617"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000617",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "162.28"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "162.28"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "162.28"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Newcastle"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Y Castellnewydd"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000618",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000618"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000618",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "517.47"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "460.42"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "460.42"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Newton"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Newton"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000619",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000619"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000619",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "412.31"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "412.31"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "412.31"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Nottage"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Notais"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000620",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000620"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000620",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1146.95"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1146.95"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1146.95"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Ogmore Vale"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Cwm Ogwr"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000622",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000622"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000622",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "64.46"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "64.46"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "64.46"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Pendre"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Pen-dre"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000623",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000623"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000623",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "1832.48"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "1832.48"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "1832.48"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Penprysg"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Penprysg"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000624",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000624"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000624",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "323.62"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "323.62"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "323.62"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Pen-y-fai"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Pen-y-fai"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000625",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000625"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000625",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "630.02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "630.02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "630.02"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Pontycymmer"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Pontycymer"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000626",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000626"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000626",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "212.63"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "176.70"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "176.70"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Porthcawl East Central"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Porthcawl Dwyrain Canol"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000627",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000627"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000627",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "113.39"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "91.62"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "91.62"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Porthcawl West Central"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Porthcawl Gorllewin Canol "
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000628",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000628"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000628",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "322.54"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "322.54"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "322.54"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Pyle"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Y P\u00eel"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000629",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000629"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000629",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "282.74"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "197.95"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "197.95"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Rest Bay"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Rest Bay"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000630",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000630"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000630",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "144.06"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "144.06"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "144.06"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Sarn"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Sarn"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000631",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000631"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000631",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "1111\/1001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "GSS re-coding strategy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-01-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "191.67"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "191.67"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "191.67"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Ynysawdre"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Ynysawdre"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000896",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000896"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000896",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "3047\/2009"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2009\/3047"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The County Borough of Bridgend (Communities) Order 2009"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-12-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "259.37"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "259.37"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "259.37"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Brackla"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Bracla"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000897",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000897"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000897",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "3047\/2009"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2009\/3047"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The County Borough of Bridgend (Communities) Order 2009"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-12-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "2438.62"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "2338.53"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "2338.53"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Bryntirion, Laleston and Merthyr Mawr"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Bryntirion, Laleston a Merthyr Mawr"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000898",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000898"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000898",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "3047\/2009"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2009\/3047"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The County Borough of Bridgend (Communities) Order 2009"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-12-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "679.66"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "679.66"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "679.66"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Coychurch Lower"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Llangrallo Isaf"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000899",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000899"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000899",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "3047\/2009"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2009\/3047"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The County Borough of Bridgend (Communities) Order 2009"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-12-01"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "372.17"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "372.17"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "372.17"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000013"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Oldcastle"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Hengastell"
+            }
+        ]
+    }
+]

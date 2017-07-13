@@ -1,0 +1,1058 @@
+[
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000981",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000981"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000981",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "2496.08"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "2458.53"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "2458.53"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Aethwy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Aethwy"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000982",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000982"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000982",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "10663.21"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "9525.30"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "9525.30"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Bro Aberffraw"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Bro Aberffraw"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000983",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000983"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000983",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "7442.20"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "7376.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "7376.00"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Bro Rhosyr"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Bro Rhosyr"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000984",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000984"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000984",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "746.64"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "619.41"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "619.41"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Caergybi"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Caergybi"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000985",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000985"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000985",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "9675.41"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "9675.41"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "9675.41"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Canolbarth M\u00f4n"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Canolbarth M\u00f4n"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000986",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000986"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000986",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "4070.48"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "3688.83"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "3688.83"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Llif\u00f4n"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Llif\u00f4n"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000987",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000987"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000987",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "6713.48"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "6168.28"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "6168.28"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Lligwy"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Lligwy"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000988",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000988"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000988",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "5615.78"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "5269.68"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "5269.68"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Seiriol"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Seiriol"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000989",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000989"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000989",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "16344.81"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "15907.48"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "235.66"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "15671.82"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Talybolion"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Talybolion"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000990",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000990"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000990",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "8003.55"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "7878.31"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "79.09"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "7799.22"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Twrcelyn"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Twrcelyn"
+            }
+        ]
+    },
+    {
+        "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000991",
+        "@type": [
+            "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+            "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+        ],
+        "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+            {
+                "@value": "W05000991"
+            }
+        ],
+        "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+            {
+                "@value": "W05000991",
+                "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+            {
+                "@value": "2676\/2012"
+            },
+            {
+                "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2012\/2676"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+            {
+                "@value": "The Isle of Anglesey (Electoral Arrangements) Order 2012"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+            {
+                "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2013-05-02"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+            {
+                "@value": "WG (LGBC)"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+            {
+                "@value": "live"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+            {
+                "@value": "3130.63"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+            {
+                "@value": "2878.41"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+            {
+                "@value": "0.00"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+            {
+                "@value": "2878.41"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+            }
+        ],
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+            {
+                "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000001"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+            {
+                "@value": "Ynys Gybi"
+            }
+        ],
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+            {
+                "@value": "Ynys Gybi"
+            }
+        ]
+    }
+]

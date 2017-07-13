@@ -1,0 +1,96 @@
+{
+    "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W05000975",
+    "@type": [
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+    ],
+    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+        {
+            "@value": "W05000975"
+        }
+    ],
+    "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+        {
+            "@value": "W05000975",
+            "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+        {
+            "@value": "2932\/2011"
+        },
+        {
+            "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2011\/2932"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+        {
+            "@value": "The Swansea (Communities) Order 2011"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+        {
+            "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2012-04-01"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+        {
+            "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000011"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+        {
+            "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W05"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+        {
+            "@value": "WG (LGBC)"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+        {
+            "@value": "live"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+        {
+            "@value": "383.35"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+        {
+            "@value": "383.35"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+        {
+            "@value": "0.00"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+        {
+            "@value": "383.35"
+        }
+    ],
+    "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+        {
+            "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W05"
+        }
+    ],
+    "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+        {
+            "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000011"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+        {
+            "@value": "Penderry"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+        {
+            "@value": "Penderi"
+        }
+    ]
+}

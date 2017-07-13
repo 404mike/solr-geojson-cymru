@@ -1,0 +1,96 @@
+{
+    "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W06000024",
+    "@type": [
+        "http:\/\/publishmydata.com\/def\/ontology\/spatial\/Area",
+        "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#Statistical-Geography"
+    ],
+    "http:\/\/www.w3.org\/2000\/01\/rdf-schema#label": [
+        {
+            "@value": "W06000024"
+        }
+    ],
+    "http:\/\/www.w3.org\/2004\/02\/skos\/core#notation": [
+        {
+            "@value": "W06000024",
+            "@type": "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#gssCode"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/originatingChangeOrder": [
+        {
+            "@value": "889\/2009"
+        },
+        {
+            "@id": "http:\/\/legislation.gov.uk\/id\/uksi\/2009\/889"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/changeOrderTitle": [
+        {
+            "@value": "The Merthyr Tydfil and Powys (Areas) Order 2009"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/boundary-change\/operativedate": [
+        {
+            "@id": "http:\/\/reference.data.gov.uk\/id\/day\/2009-06-01"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#parentcode": [
+        {
+            "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W92000004"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#code": [
+        {
+            "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-entity\/W06"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-entity#owner": [
+        {
+            "@value": "WG (LGBC)"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#status": [
+        {
+            "@value": "live"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/measurement#hasExtentOfTheRealmHectarage": [
+        {
+            "@value": "11195.70"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/measurement#hasMeanHighWaterHectarage": [
+        {
+            "@value": "11195.70"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/measurement#hasInlandWaterHectarage": [
+        {
+            "@value": "51.06"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/measurement#hasLandHectarage": [
+        {
+            "@value": "11144.64"
+        }
+    ],
+    "http:\/\/publishmydata.com\/def\/ontology\/spatial\/memberOf": [
+        {
+            "@id": "http:\/\/statistics.data.gov.uk\/def\/geography\/collection\/W06"
+        }
+    ],
+    "http:\/\/publishmydata.com\/def\/ontology\/spatial\/within": [
+        {
+            "@id": "http:\/\/statistics.data.gov.uk\/id\/statistical-geography\/W92000004"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#officialname": [
+        {
+            "@value": "Merthyr Tydfil"
+        }
+    ],
+    "http:\/\/statistics.data.gov.uk\/def\/statistical-geography#alternativelanguagename": [
+        {
+            "@value": "Merthyr Tudful"
+        }
+    ]
+}
