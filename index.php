@@ -7,7 +7,7 @@ $data = json_decode($json, true);
 
 echo '<ul>';
 foreach ($data['cymru'] as $key => $val) {
-    echo '<li><a target="_blank" href="view.php?place=' . $val['geoJson'] . '">' . $val['name'] . ' ' . getNumbers($val['geoJson']) . ' places</a></li>';
+    echo '<li><a target="_blank" href="view.php?place=' . $val['geoJson'] . '">' . $val['name'] . '</a></li>';
     
     echo '<ul>';
     echo '<li><strong>Communities</strong></li>';
