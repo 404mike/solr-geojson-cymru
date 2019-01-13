@@ -3836,6 +3836,1339 @@
                 }
             }
         },
+        "W06000006": {
+            "name": "Wrexham",
+            "altName": "Wrecsam",
+            "hasExtentOfTheRealmHectarage": "50377.39",
+            "hasMeanHighWaterHectarage": "50377.39",
+            "hasInlandWaterHectarage": "0",
+            "hasLandHectarage": "50377.39",
+            "geoJson": "authorities\/W06000006.json",
+            "communities": {
+                "W04000215": {
+                    "name": [
+                        {
+                            "@value": "Bangor Is-y-coed"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Bangor Is-coed"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "851.75"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "851.75"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "851.75"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000215.json"
+                },
+                "W04000216": {
+                    "name": [
+                        {
+                            "@value": "Bronington"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Bronington"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "3483.61"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "3483.61"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "3483.61"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000216.json"
+                },
+                "W04000220": {
+                    "name": [
+                        {
+                            "@value": "Cefn"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Cefn"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "803.73"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "803.73"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "803.73"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000220.json"
+                },
+                "W04000221": {
+                    "name": [
+                        {
+                            "@value": "Ceiriog Ucha"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Ceiriog Ucha"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "5408.43"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "5408.43"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "5408.43"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000221.json"
+                },
+                "W04000222": {
+                    "name": [
+                        {
+                            "@value": "Chirk"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Y Waun"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "1908.66"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "1908.66"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "1908.66"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000222.json"
+                },
+                "W04000224": {
+                    "name": [
+                        {
+                            "@value": "Erbistock"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Erbistog"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "1210.11"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "1210.11"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "1210.11"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000224.json"
+                },
+                "W04000225": {
+                    "name": [
+                        {
+                            "@value": "Esclusham"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Esclusham"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "1656.88"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "1656.88"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "1656.88"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000225.json"
+                },
+                "W04000226": {
+                    "name": [
+                        {
+                            "@value": "Glyntraian"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Glyntraean"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "2970.06"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "2970.06"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "2970.06"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000226.json"
+                },
+                "W04000229": {
+                    "name": [
+                        {
+                            "@value": "Hanmer"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Hanmer"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "1821.26"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "1821.26"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "1821.26"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000229.json"
+                },
+                "W04000246": {
+                    "name": [
+                        {
+                            "@value": "Llangollen Rural"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Llangollen Wledig"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "532.84"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "532.84"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "532.84"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000246.json"
+                },
+                "W04000889": {
+                    "name": [
+                        {
+                            "@value": "Abenbury"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Abenbury"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "714.45"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "714.45"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "714.45"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000889.json"
+                },
+                "W04000890": {
+                    "name": [
+                        {
+                            "@value": "Acton"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Acton"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "362.61"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "362.61"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "362.61"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000890.json"
+                },
+                "W04000891": {
+                    "name": [
+                        {
+                            "@value": "Broughton"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Brychdyn"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "461.34"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "461.34"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "461.34"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000891.json"
+                },
+                "W04000892": {
+                    "name": [
+                        {
+                            "@value": "Brymbo"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Brymbo"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "1034.23"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "1034.23"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "1034.23"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000892.json"
+                },
+                "W04000893": {
+                    "name": [
+                        {
+                            "@value": "Caia Park"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Parc Caia"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "260.07"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "260.07"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "260.07"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000893.json"
+                },
+                "W04000894": {
+                    "name": [
+                        {
+                            "@value": "Coedpoeth"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Coed-poeth"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "537.09"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "537.09"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "537.09"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000894.json"
+                },
+                "W04000895": {
+                    "name": [
+                        {
+                            "@value": "Gresford"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Gresffordd"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "882.25"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "882.25"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "882.25"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000895.json"
+                },
+                "W04000896": {
+                    "name": [
+                        {
+                            "@value": "Gwersyllt"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Gwersyllt"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "814.35"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "814.35"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "814.35"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000896.json"
+                },
+                "W04000897": {
+                    "name": [
+                        {
+                            "@value": "Holt"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Holt"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "1747.33"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "1747.33"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "1747.33"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000897.json"
+                },
+                "W04000898": {
+                    "name": [
+                        {
+                            "@value": "Isycoed"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Is-y-coed"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "1364.1"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "1364.1"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "1364.1"
+                        }
+                    ],
+                    "geoJson": "communities\/W04000898.json"
+                }
+            },
+            "electoral_ward": {
+                "W05000237": {
+                    "name": [
+                        {
+                            "@value": "Acton"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Acton"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "88.41"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "88.41"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "88.41"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000237.json"
+                },
+                "W05000238": {
+                    "name": [
+                        {
+                            "@value": "Borras Park"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Parc Borras"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "61.05"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "61.05"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "61.05"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000238.json"
+                },
+                "W05000239": {
+                    "name": [
+                        {
+                            "@value": "Bronington"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Bronington"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "6480.8"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "6480.8"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "6480.8"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000239.json"
+                },
+                "W05000241": {
+                    "name": [
+                        {
+                            "@value": "Brynyffynnon"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Brynyffynnon"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "246.91"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "246.91"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "246.91"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000241.json"
+                },
+                "W05000244": {
+                    "name": [
+                        {
+                            "@value": "Cefn"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Cefn"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "762.49"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "762.49"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "762.49"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000244.json"
+                },
+                "W05000245": {
+                    "name": [
+                        {
+                            "@value": "Dyffryn Ceiriog\/Ceiriog Valley"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Dyffryn Ceiriog"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "11339.76"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "11339.76"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "11339.76"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000245.json"
+                },
+                "W05000246": {
+                    "name": [
+                        {
+                            "@value": "Chirk North"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Y Waun - Gogledd"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "553.68"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "553.68"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "553.68"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000246.json"
+                },
+                "W05000247": {
+                    "name": [
+                        {
+                            "@value": "Chirk South"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Y Waun - De"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "1354.98"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "1354.98"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "1354.98"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000247.json"
+                },
+                "W05000249": {
+                    "name": [
+                        {
+                            "@value": "Erddig"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Erddig"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "90.38"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "90.38"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "90.38"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000249.json"
+                },
+                "W05000250": {
+                    "name": [
+                        {
+                            "@value": "Esclusham"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Esclusham"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "220.4"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "220.4"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "220.4"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000250.json"
+                },
+                "W05000251": {
+                    "name": [
+                        {
+                            "@value": "Garden Village"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Garden Village"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "56.35"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "56.35"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "56.35"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000251.json"
+                },
+                "W05000253": {
+                    "name": [
+                        {
+                            "@value": "Grosvenor"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Grosvenor"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "104.52"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "104.52"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "104.52"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000253.json"
+                },
+                "W05000254": {
+                    "name": [
+                        {
+                            "@value": "Gwenfro"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Gwenfro"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "89.62"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "89.62"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "89.62"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000254.json"
+                },
+                "W05000256": {
+                    "name": [
+                        {
+                            "@value": "Gwersyllt North"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Gwersyllt - Gogledd"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "225.44"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "225.44"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "225.44"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000256.json"
+                },
+                "W05000903": {
+                    "name": [
+                        {
+                            "@value": "Brymbo"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Brymbo"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "708.22"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "708.22"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "708.22"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000903.json"
+                },
+                "W05000904": {
+                    "name": [
+                        {
+                            "@value": "Bryn Cefn"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Bryn Cefn"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "201.28"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "201.28"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "201.28"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000904.json"
+                },
+                "W05000905": {
+                    "name": [
+                        {
+                            "@value": "Cartrefle"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Cartrefle"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "43.77"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "43.77"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "43.77"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000905.json"
+                },
+                "W05000906": {
+                    "name": [
+                        {
+                            "@value": "Coedpoeth"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Coedpoeth"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "537.09"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "537.09"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "537.09"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000906.json"
+                },
+                "W05000907": {
+                    "name": [
+                        {
+                            "@value": "Gresford East and West"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Gresffordd - Dwyrain a Gorllewin"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "568.34"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "568.34"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "568.34"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000907.json"
+                },
+                "W05000908": {
+                    "name": [
+                        {
+                            "@value": "Gwersyllt East and South"
+                        }
+                    ],
+                    "altName": [
+                        {
+                            "@value": "Gwersyllt - Dwyrain a De"
+                        }
+                    ],
+                    "hasExtentOfTheRealmHectarage": [
+                        {
+                            "@value": "422.77"
+                        }
+                    ],
+                    "hasMeanHighWaterHectarage": [
+                        {
+                            "@value": "422.77"
+                        }
+                    ],
+                    "hasInlandWaterHectarage": [
+                        {
+                            "@value": "0"
+                        }
+                    ],
+                    "hasLandHectarage": [
+                        {
+                            "@value": "422.77"
+                        }
+                    ],
+                    "geoJson": "communities\/W05000908.json"
+                }
+            }
+        },
         "W06000008": {
             "name": "Ceredigion",
             "altName": "Ceredigion",
